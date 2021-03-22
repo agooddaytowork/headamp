@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPA6120A2DWP
+D Texas Instruments TPA6120A2DWP Headphone Audio Amplifier, Class-AB Stereo 100dB, 20-Pin SOIC
+K
+F http://www.ti.com/general/docs/lit/getliterature.tsp?genericPartNumber=TPA6120A2&&fileType=pdf
+$ENDCMP
+#
+#End Doc Library
